@@ -2,11 +2,11 @@
 using namespace std;
 
 void foo() {
-    cout << "It¡¦s foo!!" << endl;
+    cout << "It''s foo!!" << endl;
 }
 
 void bar() {
-    cout << "It¡¦s bar!!" << endl;
+    cout << "It's bar!!" << endl;
 }
  
 int main() {
